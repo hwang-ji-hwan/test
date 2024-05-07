@@ -64,7 +64,7 @@ const SamplePage5 = () => {
                   <button
                     className="btn btn-primary"
                   >
-                    수정
+                    수정중
                   </button>
                 </td>
               </tr>
