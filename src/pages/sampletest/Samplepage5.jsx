@@ -44,7 +44,7 @@ const SamplePage5 = () => {
             <th>강의실 명</th>
             <th>강의실 크기</th>
             <th>강의실 자리수</th>
-            <th>비고</th>
+            <th>비고입니다</th>
             <th></th>
           </tr>
         </thead>
